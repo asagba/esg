@@ -3813,7 +3813,7 @@ START: Chose CSS
 }
 .experience-wrap .year-count {
   color: var(--tj-color-theme-primary);
-  font-size: 404px;
+  font-size: 380px;
   line-height: 0.75;
   font-family: var(--tj-ff-heading);
   font-weight: var(--tj-fw-light);
